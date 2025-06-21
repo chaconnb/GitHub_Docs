@@ -1,2 +1,2 @@
 # GitHub_Docs
-Repository with notes on how to use GitHub
+A collection of notes and tips on using GitHub.
